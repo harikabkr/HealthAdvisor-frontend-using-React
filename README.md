@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### References
+
+1. Guide to use Auth0 with React, https://auth0.com/blog/complete-guide-to-react-user-authentication/
+
+2. Quick-start with Auth0, https://auth0.com/docs/quickstart/spa/react/01-login#install-the-auth0-react-sdk
+
+3. auth0-react, https://github.com/auth0/auth0-react
+
+4. react-redux setup, https://react-redux.js.org/tutorials/quick-start#install-redux-toolkit-and-react-redux
+
+5. redux concepts, https://redux.js.org/tutorials/essentials/part-1-overview-concepts

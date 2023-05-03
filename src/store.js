@@ -1,0 +1,8 @@
+import { combineReducers, configureStore } from "@reduxjs/toolkit";
+import chatReducer from "./reducers/chatReducer";
+
+const rootReducer = combineReducers({
+        chat: chatReducer
+    });
+
+export default configureStore({ reducer: rootReducer});
